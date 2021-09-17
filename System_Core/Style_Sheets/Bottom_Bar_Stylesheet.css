@@ -1,0 +1,114 @@
+/* 
+    Bottom bar code (html)
+
+      <div class="Bottom_Page">
+            <h4 class="Title">
+                Pages:
+            </h4>
+            <div class="Page_Links">
+                <a class="L1" href="home.html">Home Page</a>
+                <a class="L2" href="About.html">About Page</a>
+                <a class="L3" href="Contact.html">Contact Page</a>
+                <a class="L4" href="Support.html">Support Page</a>
+                <a class="L5" href="Search.html">Search Page</a>
+                <a class="L6" href="Terms_Of_Service.html">Terms Of Service & Use</a>
+            </div>
+            <p class="Standared_Info">
+                We are dedicated to providing a fun interactive experience, to so we use cookies to store key bits of information, if you dont accept cookies then keys parts
+                of this website may break.
+                <br>
+                <br>
+                Please make sure your bowser allows the runing of JavaScript as that is a key part of our website.
+                <br>
+                <br>
+                Copyright 2021 to @Company_Name
+            </p>
+            <!--<div class="Social_Icons">
+                <a class="Twitter-Bottom-Link" href="">
+                    <img class="Img" src="System_Core\Core_Images\Social_Images\twitter-Icon.png" alt="White Twitter Icon">
+                </a>
+                <a class="Instagram-Bottom-Link" href="">
+                    <img class="Img2" src="System_Core\Core_Images\Social_Images\Instagram-icon.png" alt="White Instagram Icon">
+                </a>
+                <a class="Discord-Bottom-Link" href="">
+                    <img class="Img3" src="System_Core\Core_Images\Social_Images\discord-icon.png" alt="White Discord Icon">
+                </a>
+                <a class="YouTube-Bottom-Link" href="">
+                    <img class="Img4" src="System_Core\Core_Images\Social_Images\YouTube-Icon.png" alt="White YouTube Icon">
+                </a>
+                <a class="TikTok-Bottom-Link" href="">
+                    <img class="Img5" src="System_Core\Core_Images\Social_Images\TikTok-Icon.png" alt="White TikTok Icon">
+                </a>
+            </div> -->
+        </div>
+*/
+.Bottom_Page {
+    color: white;
+    position: absolute;
+    bottom: 0%;
+    background-color: grey;
+    width: 100%;
+    height: 235px;
+}
+
+.Title {
+    color: white;
+    position: absolute;
+    font-size: 30px;
+    bottom: 150px;
+    left: 9.8%;
+}
+
+.Standared_Info {
+    color: white;
+    position: absolute;
+    left: 30%;
+    top: 10px;
+    text-align: center;
+}
+
+.Page_Links {
+    color: white;
+    text-align: center;
+}
+
+.L1 {
+    color: white;
+    position: absolute;
+    left: 10%;
+    top: 51.7px;
+}
+.L2 {
+    color: white;
+    position: absolute;
+    left: 10%;
+    top: 79.9px;
+}
+
+.L3 {
+    color: white;
+    position: absolute;
+    left: 10%;
+    top: 108.1px;
+}
+
+.L4 {
+    color: white;
+    position: absolute;
+    left: 10%;
+    top: 136.3px;
+}
+
+.L5 {
+    color: white;
+    position: absolute;
+    left: 10%;
+    top: 164.5px;
+}
+
+.L6 {
+    color: white;
+    position: absolute;
+    left: 10%;
+    top: 192.7px;
+}

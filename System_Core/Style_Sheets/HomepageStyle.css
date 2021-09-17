@@ -1,0 +1,41 @@
+/* 
+This CSS is for use only on the homepage.
+
+Scaling for phone will come in version 0.1.2
+
+Current version: 0.0.1
+*/
+
+
+body {
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    background-color: dimgrey;
+}
+
+/* Main CSS Below */
+.Top_Bar {
+    margin-top: 0;
+    margin-top: -0.8%;
+    background-color: gold;
+}
+
+.Company_Name {
+    text-align: center;
+    size: 70px;
+}
+
+.Bottom_Bar {
+    padding-bottom: 5%;
+    background-color: lightgrey;
+} 
+
+.Bottom_Text {
+    text-align: center;
+}
